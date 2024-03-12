@@ -1,0 +1,14 @@
+D:\Users\User\Desktop\Array\array\array\bin\Debug\net6.0\array.exe
+D:\Users\User\Desktop\Array\array\array\bin\Debug\net6.0\array.deps.json
+D:\Users\User\Desktop\Array\array\array\bin\Debug\net6.0\array.runtimeconfig.json
+D:\Users\User\Desktop\Array\array\array\bin\Debug\net6.0\array.dll
+D:\Users\User\Desktop\Array\array\array\bin\Debug\net6.0\array.pdb
+D:\Users\User\Desktop\Array\array\array\obj\Debug\net6.0\array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\Array\array\array\obj\Debug\net6.0\array.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\Array\array\array\obj\Debug\net6.0\array.AssemblyInfo.cs
+D:\Users\User\Desktop\Array\array\array\obj\Debug\net6.0\array.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\Array\array\array\obj\Debug\net6.0\array.dll
+D:\Users\User\Desktop\Array\array\array\obj\Debug\net6.0\refint\array.dll
+D:\Users\User\Desktop\Array\array\array\obj\Debug\net6.0\array.pdb
+D:\Users\User\Desktop\Array\array\array\obj\Debug\net6.0\array.genruntimeconfig.cache
+D:\Users\User\Desktop\Array\array\array\obj\Debug\net6.0\ref\array.dll
